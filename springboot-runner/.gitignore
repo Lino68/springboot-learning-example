@@ -22,14 +22,3 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-
-# IDEA
-.idea/
-
-## File-based project format:  
-*.iws  
-*.iml  
-*.ipr
-
-# IntelliJ  
-/out/
